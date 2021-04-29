@@ -1,0 +1,94 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #F1F0FF;
+  overflow-x: hidden;
+}
+
+nav ul {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+h1 {
+  padding-top: 30px;
+}
+
+input {
+  border-color: blue;
+  background: none;
+  width: 300px;
+  margin-right: 50px;
+}
+
+label {
+  color: blue;
+  margin-top: 10px;
+}
+
+.ajout {
+  height: 35px;
+  width: 140px;
+  margin-top: 30px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+
+.plus {
+  background-color: blue;
+  color: white;
+  width: 40px;
+  border-radius: 50%;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+}
+
+.ctn {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 80px;
+}
+
+.ctn .cote1 {
+  margin-left: 30%;
+}
+
+table {
+  background-color: none;
+  border: 1px solid blue;
+  border-collapse: collapse;
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 173px;
+  margin-bottom: 10%;
+}
+
+table td {
+  font-size: 15px;
+  color: white;
+  font-family: Arial;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 20px;
+  color: cornflowerblue;
+}
+
+table th {
+  font-size: 15px;
+  color: white;
+  font-family: Arial;
+  padding-right: 100px;
+  border-bottom: 1px solid blue;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  color: cornflowerblue;
+}
+
+.AddInput {
+  margin-top: 30px;
+  margin-left: 55px;
+}
+/*# sourceMappingURL=addmtr.css.map */

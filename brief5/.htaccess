@@ -1,0 +1,12 @@
+ 
+
+
+Options All -Indexes
+
+
+RewriteEngine On
+
+RewriteBase /brief5/
+
+RewriteRule ^([-a-zA-Z0-0-/]+)$ index.php?p=$1
+
