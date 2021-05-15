@@ -1,0 +1,47 @@
+$color1:#17A2B8;
+
+
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #F1F0FF;
+    overflow-x: hidden;
+}
+
+.reserv{
+    margin-top: 100px;
+
+    h1{
+        padding-left: 10px;
+    }
+}
+.tb{
+    margin-top: 160px;
+    width: 80%;
+    margin-left: 10%;
+   
+    color: $color1; 
+}
+
+.material-icons{
+    position: relative;
+    top: 5px;
+    right: 3px;
+}
+.logout{
+    margin-top: 20px;
+    cursor: pointer;
+    margin-right:10px ;
+    
+}
+.user{
+    margin-top:20px ;
+    margin-right: 20px;
+}
+.mesreserv{
+    margin-top: 20px;
+    // height: 45px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+   
+}

@@ -1,0 +1,36 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+.Inscription {
+  margin-top: 50px;
+}
+
+.Inscription input[type=text], .Inscription input[type=password], .Inscription input[type=email], .Inscription select {
+  border: none;
+  border-bottom: 2px solid #0DB8DE;
+  border-top: 0px;
+  border-radius: 0px;
+  font-weight: bold;
+  outline: 0;
+  margin-bottom: 20px;
+  padding-left: 0px;
+  color: black;
+  width: 300px;
+}
+
+.Inscription .login {
+  cursor: pointer;
+  width: 100px;
+}
+
+.Inscription .img {
+  margin-top: 90px;
+}
+
+.Inscription button {
+  cursor: pointer;
+}
+/*# sourceMappingURL=register.css.map */
